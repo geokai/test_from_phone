@@ -1,4 +1,4 @@
-Test setup of a github repo from my Amdroid phone
+Test setup of a github repo from my Android phone
 -------------------------------------------------
 
 A setup test to determine if this was possible
